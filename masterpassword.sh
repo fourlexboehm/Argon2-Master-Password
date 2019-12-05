@@ -2,7 +2,6 @@
 echo "Enter your full legal name"
 read -p 'Full Name: ' full_name
 
-echo "Enter the primary domain of the account you wish to login to"
 read -sp 'Master Password: ' master_password
 
 echo "Select the Service you wish to obtain your password for"
